@@ -1,4 +1,4 @@
-# testabillity
+# Testabillity - ML
 For our Data Science for Software Engineering class, at Uvic we decided to replicate the following research:
 https://codeocean.com/capsule/7939508/tree/v1
 
